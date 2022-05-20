@@ -28,4 +28,3 @@ app.listen(2788, async(req, res) => {
     }
 })
 
-// aDSFKJGML;,SDKFBKMVL,C;.XJHBVCVBNM,.HJGCVBNJM
